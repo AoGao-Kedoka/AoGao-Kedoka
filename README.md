@@ -7,12 +7,14 @@
 - 🎮 field: **"Informatics: Games Engineering"**
 
 ## Tools
-<img align = "left" alt = "vim" width = "26px" src = "https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png">
+<img align = "left" alt = "vim" width = "25px" src = "https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png">
 <img align = "left" alt = "VS2019" width = "26px" src = "https://img.icons8.com/color/452/visual-studio-2019.png">
 <img align = "left" alt = "Visual Studio Code" width = "26px" src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 <img align = "left" alt = "IntelliJ" width = "26px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
 <img align = "left" alt = "Unity" width = "26px" src = "https://icon-library.com/images/unity-icon/unity-icon-1.jpg">
-<img align = "left" alt = "3DSMAX" width = "26px" src = "https://img.icons8.com/color/480/autodesk-3ds-max.png">
+<img align = "left" alt = "3DSMAX" width = "26px" src = "https://img.icons8.com/color/480/autodesk-3ds-max.png">  
+
+<br />
 
 ## Languages
  <img align = "left" alt = "C language" width = "26px" src = "https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png">
