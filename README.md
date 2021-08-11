@@ -25,7 +25,7 @@
 <br />
 
 ## Games Currently Playing
-- Splatoon on Nintendo Switch
+- Splatoon
 - It Takes Two
 - Rainbow Six Siege
 
