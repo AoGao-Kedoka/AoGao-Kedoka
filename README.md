@@ -12,7 +12,6 @@
 <img aligh= "left" alt = "IntelliJ" width="26px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
 
 <br />
----
 
 ## Languages
  <img align = "left" alt = "C language" width = "22px" src = "https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png">
