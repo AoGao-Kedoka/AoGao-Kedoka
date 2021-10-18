@@ -5,6 +5,7 @@
 - 🏠 now live in **Munich**
 - 😜 study at **Technical University of Munich (TUM)**
 - 🎮 field: **"Informatics: Games Engineering"**
+- 💻 work at **RBG Application Service** && **RBG Helpdesk**
 
 ## Tools
 <img align = "left" alt = "vim" width = "25px" src = "https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png">
@@ -26,8 +27,8 @@
 
 ## Games Currently Playing
 - Splatoon
-- It Takes Two
 - Rainbow Six Siege
+- Watch Dog Legion
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
