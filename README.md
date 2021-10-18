@@ -22,6 +22,8 @@
  <img align = "left" alt = "CPP" width = "26px" src = "https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
  <img align = "left" alt = "C#" width = "26px" src = "https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">
  <img align = "left" alt = "java" width = "26px" src = "https://image.flaticon.com/icons/png/512/226/226777.png">
+ <img align = "left" alt = "java" width = "26px" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+
  
 <br />
 
