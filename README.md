@@ -37,5 +37,5 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: http://home.in.tum.de/~gaoa/Profile/
+[website]: http://home.in.tum.de/~gaoa/
 [linkedin]: https://www.linkedin.com/in/ao-gao-0a4b82209/
