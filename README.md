@@ -45,7 +45,8 @@
 <br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aogao-kedoka&show_icons=true&locale=en&layout=compact" alt="aogao-kedoka" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aogao-kedoka&show_icons=true&locale=en" alt="aogao-kedoka" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aogao-kedoka&show_icons=true&locale=en&layout=compact" alt="aogao-kedoka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aogao-kedoka&show_icons=true&locale=en&layout=compact" alt="aogao-kedoka" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aogao-kedoka&show_icons=true&locale=en" alt="aogao-kedoka" /></p>
+
 
 
