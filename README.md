@@ -9,7 +9,7 @@
 - 🏠 now live in **Munich**
 - 😜 study at **Technical University of Munich (TUM)**
 - 🎮 field: **"Informatics: Games Engineering"**
-- 💻 work at **RBG Application Service** && **RBG Helpdesk**
+- 💻 work at **RBG Application Service**
 
 
 
