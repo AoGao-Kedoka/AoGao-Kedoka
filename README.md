@@ -32,7 +32,7 @@
  <img align = "left" alt = "python" width = "26px" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">  
  
  <br />
-
+ 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -47,6 +47,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aogao-kedoka&show_icons=true&locale=en&layout=compact" alt="aogao-kedoka" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aogao-kedoka&show_icons=true&locale=en&layout=compact" alt="aogao-kedoka" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aogao-kedoka&show_icons=true&locale=en" alt="aogao-kedoka" /></p>
+
+ ## Contributions
+ ![snake gif](https://github.com/AoGao-Kedoka/AoGao-Kedoka/blob/output/github-contribution-grid-snake.gif)
 
 
 
