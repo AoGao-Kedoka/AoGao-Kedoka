@@ -1,55 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ao Gao</h1>
 <h3 align="center">A Games Engineering student</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aogao-kedoka&label=Profile%20views&color=0e75b6&style=flat" alt="aogao-kedoka" /> </p>
 
-## About Me
-- 🉑 come from **China**
-- 🏠 now live in **Munich**
-- 😜 study at **Technical University of Munich (TUM)**
-- 🎮 field: **"Informatics: Games Engineering"**
-- 💻 work at **RBG Application Service**
+- 🔭 I’m currently concentrated on **Augmented Reality**
 
+- 👨‍💻 My Personal Website at TUM [https://home.in.tum.de/~gaoa/](https://home.in.tum.de/~gaoa/)
 
+- 📫 How to reach me **ao.gao@tum.de**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ao gao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ao gao" height="30" width="40" /></a>
+</p>
 
-## Tools
-<img align = "left" alt = "vim" width = "25px" src = "https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png">
-<img align = "left" alt = "VS2019" width = "26px" src = "https://img.icons8.com/color/452/visual-studio-2019.png">
-<img align = "left" alt = "Visual Studio Code" width = "26px" src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-<img align = "left" alt = "IntelliJ" width = "26px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
-<img align = "left" alt = "Unity" width = "26px" src = "https://icon-library.com/images/unity-icon/unity-icon-1.jpg">
-<img align = "left" alt = "3DSMAX" width = "26px" src = "https://img.icons8.com/color/480/autodesk-3ds-max.png">  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aogao-kedoka&show_icons=true&locale=en&layout=compact" alt="aogao-kedoka" /></p>
 
-## Languages
- <img align = "left" alt = "C language" width = "26px" src = "https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png">
- <img align = "left" alt = "CPP" width = "26px" src = "https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
- <img align = "left" alt = "C#" width = "26px" src = "https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">
- <img align = "left" alt = "java" width = "26px" src = "https://cdn-icons-png.flaticon.com/512/226/226777.png">
- <img align = "left" alt = "python" width = "26px" src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">  
- 
- <br />
- 
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[website]: http://home.in.tum.de/~gaoa/
-[linkedin]: https://www.linkedin.com/in/ao-gao-0a4b82209/  
-
-<br />
-<br />
-<br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aogao-kedoka&show_icons=true&locale=en&layout=compact" alt="aogao-kedoka" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aogao-kedoka&show_icons=true&locale=en&layout=compact" alt="aogao-kedoka" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=aogao-kedoka&show_icons=true&locale=en" alt="aogao-kedoka" /></p>
-
- ## Contributions
- ![snake gif](https://github.com/AoGao-Kedoka/AoGao-Kedoka/blob/output/github-contribution-grid-snake.gif)
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aogao-kedoka&show_icons=true&locale=en" alt="aogao-kedoka" /></p>
