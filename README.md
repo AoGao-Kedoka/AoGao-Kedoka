@@ -12,7 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aogao-kedoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ao gao" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aogao-kedoka" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ao gao"/></a>
+<a href="https://www.xing.com/profile/Ao_Gao/cv" target="blank"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="ao gao"/></a>
+<a href="https://www.discordapp.com/users/368729359139471360" target="blank"><img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="ao gao"/></a>
+
 </p>
 
 <h3 align="left">Languages</h3>
