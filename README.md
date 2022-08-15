@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Personal Website at TUM [https://home.in.tum.de/~gaoa/](https://home.in.tum.de/~gaoa/)
 
-- 📫 How to reach me **ao.gao@tum.de**
+- 📫 **ao.gao@tum.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
