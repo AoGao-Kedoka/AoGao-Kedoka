@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aogao-kedoka&label=Profile%20views&color=0e75b6&style=flat" alt="aogao-kedoka" /> </p>
 
-- 🔭 I’m currently concentrating on **Mixed Reality**
+- 🔭 I’m currently concentrating on **Extended Reality (VR/MR)**
 
 - 👨‍💻 My Personal Website at TUM [https://home.in.tum.de/~gaoa/](https://home.in.tum.de/~gaoa/)
 
-- 📫 **ao.gao@tum.de**
+- 📫 **ao.gao@tum.de** && **aogao@gmx.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
