@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aogao-kedoka&label=Profile%20views&color=0e75b6&style=flat" alt="aogao-kedoka" /> </p>
 
-- 🔭 I’m currently concentrating on **Extended Reality (VR/MR)** and **Game Dev**
+- 🔭 I’m currently concentrating on **Computer Graphics** and **Extended Reality (VR/MR)**
 
 - 👨‍💻 Games Engineering Student at Technical University of Munich, [https://home.in.tum.de/~gaoa/](https://home.in.tum.de/~gaoa/)
 
