@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ao Gao</h1>
-<h3 align="center">A Games Engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aogao-kedoka&label=Profile%20views&color=0e75b6&style=flat" alt="aogao-kedoka" /> </p>
 
 - 🔭 I’m currently concentrating on **Computer Graphics** and **Extended Reality (VR/MR)**
 
