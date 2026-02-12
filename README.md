@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently concentrating on **Computer Graphics** and **Extended Reality (VR/MR)**
 
-- 👨‍💻 Games Engineering Student at Technical University of Munich, [https://aogao-kedoka.github.io/](https://aogao-kedoka.github.io/)
+- 👨‍💻 Graduate Student at Technical University of Munich, [https://aogao-kedoka.github.io/](https://aogao-kedoka.github.io/)
 
 - 📫 **aogao@gmx.de**
 
