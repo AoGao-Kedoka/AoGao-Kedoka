@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ao Gao</h1>
 
 
-- 🔭 I’m currently concentrating on **Computer Graphics** and **Extended Reality (VR/MR)**
+- 🔭 I’m currently concentrating on **Computer Graphics**, **Extended Reality (VR/MR)** and **Software Engineering**
 
 - 👨‍💻 Graduate Student at Technical University of Munich, [https://aogao-kedoka.github.io/](https://aogao-kedoka.github.io/)
 
-- 📫 **aogao@gmx.de**
+- 📫 Email: aogao AT gmx DOT de
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
