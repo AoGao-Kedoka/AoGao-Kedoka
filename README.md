@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ao Gao</h1>
 
 
-- 🔭 I’m currently concentrating on **Computer Graphics**, **Extended Reality (VR/MR)** and **Software Engineering**
+- 🔭 I’m intested in **Computer Graphics** and **Software Engineering**
 
 - 👨‍💻 Graduate Student at Technical University of Munich, [https://aogao-kedoka.github.io/](https://aogao-kedoka.github.io/)
 
