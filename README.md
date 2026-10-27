@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ao Gao</h1>
 
 
-- 🔭 I’m intested in **Computer Graphics** and **Software Engineering**
+- I’m intested in **Computer Graphics** and **Software Engineering**
 
-- 👨‍💻 Graduate Student at Technical University of Munich, [https://aogao-kedoka.github.io/](https://aogao-kedoka.github.io/)
+- SWE @ Bloomberg
+
+- Graduate Student at Technical University of Munich, [https://aogao-kedoka.github.io/](https://aogao-kedoka.github.io/)
 
 - 📫 Email: aogao AT gmx DOT de
 
